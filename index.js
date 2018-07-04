@@ -1,3 +1,3 @@
-const currentUser = 'Jenelyn Hopkins'; 
+const currentUser = 'Jenelyn Hopkins';
 
-const welcomeMessage = 'Welcome to Flatbook';
+const welcomeMessage = 'Welcome to Flatbook,';
